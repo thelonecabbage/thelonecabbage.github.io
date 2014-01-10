@@ -2,8 +2,7 @@
 layout: post
 category: test
 tagline: test tagline
-tags: 
-  - test
+tags: [test, test2, test3]
 published: true
 ---
 
